@@ -37,7 +37,9 @@ Notes:
 ||* HTML|
 ||* CSS|
 ||* XML, XSLT, XSD, DTD|
-|-
+|--|--|
+
+
 |Tools|   |
 ||- Eclipse| 
 ||- Prior:|
