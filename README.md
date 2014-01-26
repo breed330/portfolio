@@ -32,22 +32,11 @@ Notes:
 * Batch
 * Groovy
 
-|Web||
+| Web | HTML, CSS, XML, XSLT, XSD, DTD|
 |--|--|
-||* HTML|
-||* CSS|
-||* XML, XSLT, XSD, DTD|
-|--|--|
+|Tools| Eclipse, Maven 2, Ant  |
+|Tools (prior) | Visual Studio, NetBeans, JBuilder | 
 
-
-|Tools|   |
-||- Eclipse| 
-||- Prior:|
-||-- Visual Studio|
-||-- NetBeans|
-||-- JBuilder|
-||- Maven 2|
-||- ANT|
 
 - SVN
 -- TortoiseSVN
