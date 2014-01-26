@@ -1,21 +1,19 @@
-==============================================================
-Portfolio README
-==============================================================
+~Portfolio README
 
 Contains sample code 
 
-## Directory
+### Directory
 
+TODO
 
-
-####Notes:
--   The majority of my work is not licensed to be shared publicly, created for the employers I worked for.
+Notes:
+- The majority of my work is not licensed to be shared publicly, created for the employers I worked for.
 -   
 
 
-##Software Development Skills
+###Software Development Skills
 
-###Java 
+####Java 
 - JEE
 - JNDI
 - JMS
@@ -25,7 +23,7 @@ Contains sample code
 - JUnit
 - Portlets
 
-###Other languages
+####Other languages
 * SQL (Oracle, MySQL, MS SQL)
 * Perl
 * JavaScript
@@ -34,21 +32,19 @@ Contains sample code
 * Batch
 * Groovy
 
-###Web
-* HTML
-* CSS
-* XML, XSLT, XSD, DTD
-
-
-
-###Tools
-- Eclipse 
-- Prior:
--- Visual Studio
--- NetBeans
--- JBuilder
-- Maven 2
-- ANT
+|Web||
+||* HTML|
+||* CSS|
+||* XML, XSLT, XSD, DTD|
+|-
+|Tools|   |
+||- Eclipse| 
+||- Prior:|
+||-- Visual Studio|
+||-- NetBeans|
+||-- JBuilder|
+||- Maven 2|
+||- ANT|
 
 - SVN
 -- TortoiseSVN
@@ -63,7 +59,7 @@ Contains sample code
 - GlassFish
 
 
-###Less relavent
+####Less relavent
 * MFC, ASP
 * C,C++, Visual C++
 * Visual Basic
