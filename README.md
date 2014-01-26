@@ -32,10 +32,10 @@ Notes:
 * Batch
 * Groovy
 
-| Web | HTML, CSS, XML, XSLT, XSD, DTD|
-|--|--|
-|Tools| Eclipse, Maven 2, Ant  |
-|Tools (prior) | Visual Studio, NetBeans, JBuilder | 
+Web | HTML, CSS, XML, XSLT, XSD, DTD
+----|-------------------------------
+Tools| Eclipse, Maven 2, Ant
+Tools (prior) | Visual Studio, NetBeans, JBuilder
 
 
 - SVN
