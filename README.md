@@ -1,12 +1,15 @@
 ====================================
-Portfolio Repository
-README
+portfolio Repository README
 ====================================
 Contains sample code 
 
 #### Directory
 
-TODO
+Date | Project | Description
+---|--------|--------
+2006| SSEA | Master's Thesis work. 
+ | | SSEA: System for Studying the Effectiveness of Animations
+ 
 
 Notes:
 - The majority of my work is not licensed to be shared publicly, created for the employers I worked for.
