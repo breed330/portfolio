@@ -3,6 +3,10 @@ portfolio Repository README
 ====================================
 Contains sample code 
 
+Notes:
+- The majority of my work is not licensed to be shared publicly 
+  since it was created for the employers I worked for.
+
 #### Directory
 
 Date | Project | Description
@@ -11,8 +15,6 @@ Date | Project | Description
  | | SSEA: System for Studying the Effectiveness of Animations
  
 
-Notes:
-- The majority of my work is not licensed to be shared publicly, created for the employers I worked for.
 
 
 ####Software Development Skills
