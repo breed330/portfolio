@@ -4,16 +4,11 @@ portfolio Repository README
 Contains sample code 
 
 Notes:
-- The majority of my work is not licensed to be shared publicly 
-  since it was created for the employers I worked for.
+- My work is not licensed to be shared publicly since it was created for the employers I worked for.
 
-#### Directory
+####Directory
 
-Date | Project | Description
----|--------|--------
-2006| SSEA | Master's Thesis work. 
- | | SSEA: System for Studying the Effectiveness of Animations
- 
+TODO find non-copywritten code 
 
 
 
